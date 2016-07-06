@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "MyHouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5728268623352,
+          6.334983408175616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#059efa",
+        "fill-opacity": 0.5,
+        "marker-color": "",
+        "Name": "UnPoligono"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.57168960571289,
+              6.339483310989501
+            ],
+            [
+              -75.56658267974854,
+              6.3411467722333485
+            ],
+            [
+              -75.56611061096191,
+              6.339909840025123
+            ],
+            [
+              -75.56366443634033,
+              6.339909840025123
+            ],
+            [
+              -75.56332111358643,
+              6.337308007421066
+            ],
+            [
+              -75.56774139404297,
+              6.3352606545071986
+            ],
+            [
+              -75.57023048400879,
+              6.336710863660368
+            ],
+            [
+              -75.57168960571289,
+              6.339483310989501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "OtroPunto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5694580078125,
+          6.330782041694503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff40",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56319236755371,
+          6.333127986584906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57117462158203,
+          6.343364712209696
+        ]
+      }
+    }
+  ]
+}
